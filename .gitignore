@@ -1,0 +1,8 @@
+*.log
+Debug/
+Release/
+bin/
+obj/
+*.mdf
+*.ldf
+!/deploy/CounterPublisher/bin
